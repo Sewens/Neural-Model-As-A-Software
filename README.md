@@ -6,7 +6,7 @@ It also introduces factors that compromise the correctness and stability of the 
 
 In this repo, we present the Neural-Model-As-A-Software topic. We discuss everything about how neural models become usable software systems, including these three parts.
 
-* **Research&Design** How the neural model is involved into problem, including problem definition, pre-processing and post-processing, and more.
+* **Research&Design** How the neural model is involved into problem, including problem definition, engineering practice, and more.
 * **Neural model internal** Discusses the intrinsic mechanisms of a neural network, about what it learns and how it is tested.
 * **Domain Specific Application** Interesting and creative applications of neural model in different fields.
 
