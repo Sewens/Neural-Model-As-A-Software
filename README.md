@@ -35,6 +35,7 @@ In this repo, we present the Neural-Model-As-A-Software topic. We discuss everyt
 
 * [A Neural Corpus Indexer for Document Retrieval](https://arxiv.org/abs/2206.02743)
 * [Transformer Memory as a Differentiable Search Index](https://arxiv.org/abs/2202.06991)
+* [DSI++: Updating Transformer Memory with New Documents](https://arxiv.org/abs/2212.09744)
 
 
 ### Chat
