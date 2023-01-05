@@ -15,8 +15,9 @@ In this repo, we present the Neural-Model-As-A-Software topic. We discuss everyt
 
 * [copilot-internals](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals)
 
-
 # Testable
+
+* [Is GPT-3 a Psychopath? Evaluating Large Language Models from a Psychological Perspective](https://arxiv.org/abs/2212.10529)
 
 # Application
 
@@ -53,3 +54,4 @@ In this repo, we present the Neural-Model-As-A-Software topic. We discuss everyt
 ### Music
 
 * [Language Models are Drummers: Drum Composition with Natural Language Pre-Training](https://arxiv.org/abs/2301.01162)
+
