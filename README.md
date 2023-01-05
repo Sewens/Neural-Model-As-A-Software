@@ -46,3 +46,10 @@ In this repo, we present the Neural-Model-As-A-Software topic. We discuss everyt
 
 ## Speeches
 
+
+
+## Others
+
+### Music
+
+* [Language Models are Drummers: Drum Composition with Natural Language Pre-Training](https://arxiv.org/abs/2301.01162)
