@@ -27,6 +27,10 @@ In this repo, we present the Neural-Model-As-A-Software topic. We discuss everyt
 
 * [Copliot](https://github.com/features/copilot)
 
+### Interpreter
+
+* [Prompting Is Programming: A Query Language For Large Language Models](https://arxiv.org/abs/2212.06094)
+
 
 ## Natural Language
 
@@ -42,6 +46,7 @@ In this repo, we present the Neural-Model-As-A-Software topic. We discuss everyt
 ### Chat
 
 * [ChatGPT](https://openai.com/blog/chatgpt/)
+* [Large Language Models as Corporate Lobbyists](https://arxiv.org/abs/2301.01181)
 
 ## Vision and Graphics
 
